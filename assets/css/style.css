@@ -1,0 +1,55 @@
+.title {
+    background-color: green;
+    width: 220px;
+    border: solid 2px antiquewhite;
+    padding: 10px;
+}
+
+.directions {
+    width: 300px;
+    background-color: antiquewhite;
+    padding: 30px;
+    border: solid 2px antiquewhite;
+}
+
+.desiredNumber,
+.tally {
+    float: left;
+    width: 15%;
+    height: 60px;
+}
+
+.total {
+    width: 15%;
+    height: 60px;
+}
+
+.desiredNumber {
+    background-color: green;
+    width: 120px;
+    border: solid 2px antiquewhite;
+    padding: 10px;
+}
+
+.tally {
+    background-color: white;
+    width: 40px;
+    border: solid 2px antiquewhite;
+    padding: 10px;
+    height: 60px;
+}
+
+.total {
+    width: 15%;
+    height: 120px;
+    background-color: grey;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+}
